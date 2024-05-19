@@ -9,7 +9,7 @@ Instrucciones de instalacion:
 3. Compila el proyecto usando en compilador de Java.
 4. Ejecuta la aplicacion principal.
 
-Estructura de codigo
+Estructura de codigo:
    El proyecto esta organizado en los siguientes paquetes y clases:
    - 'org.pr2': Contiene la clase principal para demostrar el uso de la clase 'Graph'.
         - 'Graph.java': Implementa la estructura de datos de un grafo dirigido y métodos para manipularlo.
